@@ -12,7 +12,7 @@
 ## 📫 How to reach me:
 <p align="left">
   <!-- Sửa phần href bên dưới bằng link Facebook của bạn nhé -->
-  <a href="[ĐIỀN_LINK_FACEBOOK_CỦA_BẠN_VÀO_ĐÂY]" target="_blank">
+  <a href="https://www.facebook.com/pek.das.2024" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"/>
   </a>
 </p>
