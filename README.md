@@ -4,7 +4,7 @@
 <p align="center">
   🎓 Sinh viên năm nhất ngành <b>Kỹ thuật Phần mềm</b> tại <b>Đại học Tôn Đức Thắng (TDTU)</b>, TP.HCM.<br>
   🌱 Đang trong quá trình khám phá thế giới code, cơ chế hoạt động của Hệ điều hành và thuật toán.<br>
-  🎮 Ngoài giờ học code, mình thích tự tay setup các môi trường dual-boot (Windows & Linux), vọc vạch mod và try-hard các tựa game.
+  🎮 Ngoài giờ học code, mình thích tự tay setup các môi trường dual-boot (Windows & Linux), vọc vạch mod game (Terraria) và try-hard các tựa game action RPG.
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 
 ## 📫 How to reach me:
 <p align="left">
-
-  <a href="https://www.facebook.com/pek.das.2024" target="_blank">
+  <!-- Sửa phần href bên dưới bằng link Facebook của bạn nhé -->
+  <a href="[ĐIỀN_LINK_FACEBOOK_CỦA_BẠN_VÀO_ĐÂY]" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"/>
   </a>
 </p>
@@ -36,8 +36,8 @@
 <table style="width:100%;">
   <tr>
     <td width="50%">
-     <img src="https://github-readme-stats.vercel.app/api?username=DasTarrVn&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&custom_title=Hoạt%20động%20trên%20Github" alt="DasTar GitHub Stats" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=DasTarrVn&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="DasTar GitHub Stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasTarrVn&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="DasTar Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=DasTarrVn&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&custom_title=Hoạt%20động%20trên%20Github" alt="DasTar GitHub Stats" width="100%"/>
     </td>
     <td width="50%">
       <p align="center"> 
