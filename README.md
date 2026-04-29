@@ -39,7 +39,7 @@
 <table style="width:100%;">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasTarrVn&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="DasTar Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasTarrVn&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&v=1&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="DasTar Top Languages" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=DasTarrVn&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&custom_title=Hoạt%20động%20trên%20Github" alt="DasTar GitHub Stats" width="100%"/>
     </td>
     <td width="50%">
