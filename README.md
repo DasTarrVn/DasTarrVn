@@ -4,7 +4,7 @@
 <p align="center">
   🎓 Sinh viên năm nhất ngành <b>Kỹ thuật Phần mềm</b> tại <b>Đại học Tôn Đức Thắng (TDTU)</b>, TP.HCM.<br>
   🌱 Đang trong quá trình khám phá thế giới code, cơ chế hoạt động của Hệ điều hành và thuật toán.<br>
-  🎮 Ngoài giờ học code, mình thích tự tay setup các môi trường dual-boot (Windows & Linux), vọc vạch mod game (Terraria) và try-hard các tựa game action RPG.
+  🎮 Ngoài giờ học code, mình thích tự tay setup các môi trường dual-boot (Windows & Linux), vọc vạch mod game và try-hard các tựa game action RPG.
 </p>
 
 ---
