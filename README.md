@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm DasTar</h1>
 <h3 align="center">A passionate Software Engineering student from Vietnam 🇻🇳</h3>
 
-<p align="center">
-  🎓 Sinh viên năm nhất ngành <b>Kỹ thuật Phần mềm</b> tại <b>Đại học Tôn Đức Thắng (TDTU)</b>, TP.HCM.<br>
-</p>
+> 🎓 Sinh viên năm nhất ngành **Kỹ thuật Phần mềm** tại [**Đại học Tôn Đức Thắng (TDTU)**](https://tdtu.edu.vn/), TP.HCM.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=DasTarrVn&style=flat-square&color=blue" alt="Profile views"/>
