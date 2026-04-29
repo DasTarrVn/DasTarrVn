@@ -1,4 +1,4 @@
-<img align="right" width="64" src="https://github.com/user-attachments/assets/14fc4390-aa83-44e0-8591-baedc681e763" alt="Profile Picture" />
+<img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/6372f36c-165a-40fd-ab08-e76ff41c092f" /><img align="right" width="64" src="https://github.com/user-attachments/assets/14fc4390-aa83-44e0-8591-baedc681e763" alt="Profile Picture" />
 
 <h1 align="center">Hi 👋, I'm DasTar</h1>
 <h3 align="center">A passionate Software Engineering student from Vietnam 🇻🇳</h3>
@@ -43,7 +43,7 @@
     </td>
     <td width="50%">
       <p align="center"> 
-        <img src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif" alt="dev" width="100%"/>
+        <img src="https://camo.githubusercontent.com/374c87a367e39846d00e1ad53feb00ad5978d0b21e1522cd1ec17ae98d75e6fd/68747470733a2f2f6d656469612e74656e6f722e636f6d2f43725748707a78495a594541414141432f6361742d747970696e672d6769662e676966" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
