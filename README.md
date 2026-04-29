@@ -1,4 +1,4 @@
-<img align="right" width="50" src="https://github.com/user-attachments/assets/8899428b-de78-4162-b0e4-e04105f2d448" alt="Profile Picture" />
+<img align="right" width="64" src="https://github.com/user-attachments/assets/8899428b-de78-4162-b0e4-e04105f2d448" alt="Profile Picture" />
 
 <h1 align="center">Hi 👋, I'm DasTar</h1>
 <h3 align="center">A passionate Software Engineering student from Vietnam 🇻🇳</h3>
