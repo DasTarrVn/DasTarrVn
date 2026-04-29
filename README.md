@@ -43,7 +43,7 @@
     </td>
     <td width="50%">
       <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+        <img src="https://miro.medium.com/1*CtdykXzI3YnV7hrkaTnvCw.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
