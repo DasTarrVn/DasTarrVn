@@ -1,9 +1,12 @@
+<img align="right" width="150" src="https://github.com/user-attachments/assets/8899428b-de78-4162-b0e4-e04105f2d448" alt="Profile Picture" />
+
 <h1 align="center">Hi 👋, I'm DasTar</h1>
 <h3 align="center">A passionate Software Engineering student from Vietnam 🇻🇳</h3>
 
 <p align="center">
   🎓 Sinh viên năm nhất ngành <b>Kỹ thuật Phần mềm</b> tại <b>Đại học Tôn Đức Thắng (TDTU)</b>, TP.HCM.<br>
-  🌱 Đang trong quá trình khám phá thế giới code.<br>
+  🌱 Đang trong quá trình khám phá thế giới code, cơ chế hoạt động của Hệ điều hành và thuật toán.<br>
+  🎮 Ngoài giờ học code, mình thích tự tay setup các môi trường dual-boot (Windows & Linux), vọc vạch mod game (Terraria) và try-hard các tựa game action RPG.
 </p>
 
 <p align="center">
@@ -16,6 +19,12 @@
 <p align="left">
   <a href="https://www.facebook.com/pek.das.2024" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"/>
+  </a>
+  <a href="https://www.youtube.com/@DasTarPGR" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="RVX"/>
+  </a>
+  <a href="mailto:pedas15102007@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png" alt="Email"/>
   </a>
 </p>
 
