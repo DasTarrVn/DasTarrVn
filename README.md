@@ -4,7 +4,11 @@
 <p align="center">
   🎓 Sinh viên năm nhất ngành <b>Kỹ thuật Phần mềm</b> tại <b>Đại học Tôn Đức Thắng (TDTU)</b>, TP.HCM.<br>
   🌱 Đang trong quá trình khám phá thế giới code, cơ chế hoạt động của Hệ điều hành và thuật toán.<br>
-  🎮 Ngoài giờ học code, mình thích tự tay setup các môi trường dual-boot (Windows & Linux), vọc vạch mod game và try-hard các tựa game action RPG.
+  🎮 Ngoài giờ học code, mình thích tự tay setup các môi trường dual-boot (Windows & Linux), vọc vạch mod game (Terraria) và try-hard các tựa game action RPG.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DasTarrVn&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 ---
@@ -27,20 +31,18 @@
   <img src="https://img.icons8.com/color/48/000000/github-2.png" alt="GitHub"/>
 </p>
 
-## 📊 GitHub Stats:
+## Activities:
+
 <table style="width:100%;">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=DasTarrVn&show_icons=true&theme=radical&hide_border=true&custom_title=Hoạt%20động%20trên%20GitHub" alt="DasTar's GitHub Stats" width="100%"/>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasTarrVn&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="DasTar Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=DasTarrVn&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="DasTar GitHub Stats" width="100%"/>
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasTarrVn&layout=compact&theme=radical&hide_border=true&custom_title=Ngôn%20ngữ%20sử%20dụng" alt="Top Languages" width="100%"/>
+    <td width="50%">
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
     </td>
   </tr>
 </table>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DasTarrVn&style=flat-square&color=blue" alt="Profile views"/>
-</p>
