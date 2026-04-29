@@ -8,7 +8,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=DasTarrVn&style=flat-square&color=blue" alt="Profile views"/>
 </p>
-
 ---
 
 ## 📫 How to reach me:
