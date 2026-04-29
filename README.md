@@ -43,7 +43,7 @@
     </td>
     <td width="50%">
       <p align="center"> 
-        <img src="https://miro.medium.com/1*CtdykXzI3YnV7hrkaTnvCw.gif" alt="dev" width="100%"/>
+        <img src="https://i.giphy.com/media/aNqEFrYVnsS52/giphy.gif" alt="dev" width="100%"/>
       </p>
     </td>
   </tr>
