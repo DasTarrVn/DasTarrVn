@@ -7,7 +7,7 @@
   🎓 Sinh viên năm nhất ngành <b>Kỹ thuật Phần mềm</b> tại <b>Đại học Tôn Đức Thắng (TDTU)</b>, TP.HCM.<br>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=DasTarrVn&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
