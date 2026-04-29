@@ -4,7 +4,7 @@
 <p align="center">
   🎓 Sinh viên năm nhất ngành <b>Kỹ thuật Phần mềm</b> tại <b>Đại học Tôn Đức Thắng (TDTU)</b>, TP.HCM.<br>
   🌱 Đang trong quá trình khám phá thế giới code, cơ chế hoạt động của Hệ điều hành và thuật toán.<br>
-  🎮 Ngoài giờ học code, mình thích tự tay setup các môi trường dual-boot (Windows & Linux), vọc vạch mod game (Terraria) và try-hard các tựa game action RPG.
+  🎮 Ngoài giờ học code, mình thích tự tay setup các môi trường dual-boot (Windows & Linux), vọc vạch mod và try-hard các tựa game.
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 📫 How to reach me:
 <p align="left">
-  <!-- Sửa phần href bên dưới bằng link Facebook của bạn nhé -->
+
   <a href="https://www.facebook.com/pek.das.2024" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Facebook"/>
   </a>
