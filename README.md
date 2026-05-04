@@ -39,9 +39,10 @@
 <table style="width:100%;">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasTarrVn&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&v=2&custom_title=GitHub%20Stats" alt="DasTar Top Languages" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=DasTarrVn&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&custom_title=My%20GitHub%20Activity" alt="DasTar GitHub Stats" width="100%"/>
-    </td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasTarrVn&theme=transparent&layout=compact&hide_border=true&langs_count=10" alt="GitHub Stats" width="100%"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DasTarrVn&theme=transparent&show_icons=true&count_private=true&hide_border=true" alt="My GitHub Activity" width="100%"/>
+</td>
     <td width="50%">
       <p align="center"> 
         <img src="https://media.tenor.com/CrWHpzxIZYEAAAAC/cat-typing-gif.gif" alt="dev" width="100%"/>
