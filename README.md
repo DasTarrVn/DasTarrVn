@@ -39,7 +39,7 @@
 <table style="width:100%;">
   <tr>
     <td width="50%">
-      <img src="https://my-github-stats-orpin.vercel.app/api/top-langs/?username=DasTarrVn&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&hide_border=true&langs_count=10&v=3&custom_title=GitHub%20Stats" alt="GitHub Stats" width="100%"/>
+      <img src="https://my-github-stats-orpin.vercel.app/api/top-langs/?username=DasTarrVn&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&hide_border=true&langs_count=10&v=1&custom_title=GitHub%20Stats" alt="GitHub Stats" width="100%"/>
       <br/>
       <img src="https://my-github-stats-orpin.vercel.app/api?username=DasTarrVn&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&hide_border=true&v=3&custom_title=My%20GitHub%20Activity" alt="My GitHub Activity" width="100%"/>
     </td>
